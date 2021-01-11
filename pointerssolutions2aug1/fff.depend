@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596269356 source:f:\c do\fff\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1597058233 source:f:\c do\pointerssolutions2aug1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

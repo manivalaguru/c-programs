@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1593784484 source:f:\c do\june25chapter5solutons\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

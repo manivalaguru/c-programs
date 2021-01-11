@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600277137 source:f:\c do\stringdsum\main.c
+	<stdio.h>
+	<stdlib.h>
+

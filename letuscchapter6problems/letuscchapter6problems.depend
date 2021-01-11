@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1594994080 source:f:\c do\letuscchapter6problems\main.c
+	<stdio.h>
+	<stdlib.h>
+

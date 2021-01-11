@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1598707621 source:f:\c do\auyg25multidimensinalarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

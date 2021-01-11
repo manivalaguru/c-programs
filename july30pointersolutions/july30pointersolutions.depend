@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1596268612 source:f:\c do\july30pointersolutions\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

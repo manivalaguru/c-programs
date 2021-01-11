@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588849690 source:f:\c do\may74thprogramexponential\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
