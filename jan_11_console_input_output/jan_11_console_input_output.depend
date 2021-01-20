@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610708811 source:g:\cdo\jan_11_console_input_output\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
