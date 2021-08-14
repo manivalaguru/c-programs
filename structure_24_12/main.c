@@ -27,6 +27,9 @@
   printf("name : %s\n", p2.name);
   printf("phone_number : %d\n", p2.phone_number);
   printf("Third Student\n");
+
+
+
   printf("roll_no : %d\n", p3.roll_no);
   printf("name : %s\n", p3.name);
   printf("phone_number : %d\n", p3.phone_number);
